@@ -10,6 +10,7 @@ namespace TDD_Tutorial.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "Hello World!";
             return View();
         }
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Tutorial", "TDD_Tutorial\TDD_Tutorial.csproj", "{BB2C798B-8237-4963-B0C5-F15D2762E560}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Tutorial.Web", "TDD_Tutorial\TDD_Tutorial.Web.csproj", "{BB2C798B-8237-4963-B0C5-F15D2762E560}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{A233E88A-D38A-47C7-956E-72D8271A96CE}"
 EndProject
